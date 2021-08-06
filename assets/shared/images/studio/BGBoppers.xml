@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGBoppers.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bganim0000" x="10" y="10" width="732" height="565" frameX="-13" frameY="0" frameWidth="759" frameHeight="565"/>
+	<SubTexture name="bganim0001" x="752" y="574" width="759" height="542" frameX="0" frameY="-23" frameWidth="759" frameHeight="565"/>
+	<SubTexture name="bganim0002" x="752" y="10" width="746" height="554" frameX="-6" frameY="-11" frameWidth="759" frameHeight="565"/>
+	<SubTexture name="bganim0003" x="10" y="10" width="732" height="565" frameX="-13" frameY="0" frameWidth="759" frameHeight="565"/>
+	<SubTexture name="bganim0004" x="10" y="10" width="732" height="565" frameX="-13" frameY="0" frameWidth="759" frameHeight="565"/>
+	<SubTexture name="bganim0005" x="10" y="10" width="732" height="565" frameX="-13" frameY="0" frameWidth="759" frameHeight="565"/>
+	<SubTexture name="bganim0006" x="10" y="10" width="732" height="565" frameX="-13" frameY="0" frameWidth="759" frameHeight="565"/>
+</TextureAtlas>
